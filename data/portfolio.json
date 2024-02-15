@@ -5,8 +5,8 @@
     "headerTaglineThree": "developer",
     "headerTaglineFour": "based in Varanasi, India.",
     "showCursor": true,
-    "showBlog": true,
-    "darkMode": true,
+    "showBlog": false,
+    "darkMode": false,
     "showResume": true,
     "socials": [
         {
