@@ -1,13 +1,13 @@
 {
-    "name": "Call me at +91 8960758532 for work",
+    "name": "Call us at +91 8960758532 for work",
     "headerTaglineOne": "Hello 👋",
-    "headerTaglineTwo": "I'm Ankit Verma - Fullstack",
-    "headerTaglineThree": "developer",
+    "headerTaglineTwo": "We're - GoBinary",
+    "headerTaglineThree": "Technologies",
     "headerTaglineFour": "based in Varanasi, India.",
     "showCursor": true,
     "showBlog": false,
     "darkMode": false,
-    "showResume": true,
+    "showResume": false,
     "socials": [
         {
             "id": "1",
@@ -35,22 +35,22 @@
             "id": "1",
             "title": "iBegin Portal",
             "description": "Web Development",
-            "imageSrc": "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/a595124f9d4938320de3e6b31dc24948?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFwaCXVzLXdlc3QtMiJHMEUCIBEObiazBEtxzUPedxc6fAET/LaRx240NuFKR7DnuIwrAiEA%2BIOClyyhGCV3VRUyAv%2BihS0NLf8SFVYLxGEzZvF2dzcqzQQIRRAAGgw3Mzk5MzkxNzM4MTkiDKm51JBKS82PG9Je5SqqBP2OdzwCVLoCEhrLlzDNxzwdEFX9mDU7P3aK3D3o9hL4VDNAQLEWhTCz7th8yImX%2BEt2r9TX6YmCA48BUkAHta9InX55JiNuSe1HUUZ31OxWvH5KobwX02iLOim2QiyiqfSYPMqjCwq6LlQY9DD2/Wz9U5zaoOBGDFgbBa6AKGuyIpf1c1KqABngKgbSrGY1dLpp8B4qyN5PIfCDmCGbwexTe2EdCH1w97fATU2RaJ8CPOYSCiMTQukP8nOR8sD2bHTmd/UxUnx4IZYBN0dfQdRtS5byROktARaWIMmCoAkasSFJYb9GMJIZTZ9TV%2Bwsj7/ycWIGUZKTgerB5VeMW7POU6B5EdNEG28Mz9cJW%2BNYxCWa9AsRzTrJjRCwwgjTtIkvljHPcmYZTU1VyeEF5Gd6P/z2XxN01EgThGlb2v67O4geFewcEYatMDsPodewZzZ6VH4e/M3DZ8SVzPeIle9WG56cCvkjwOW6Sq8HWhLOa17MAhdKxyMtIBfx0UHCW%2BKeaXuFUB4R41C8SdrlhFCEb/odmCjjxVuaLTDyXEAJg2q6u9vTzm%2B6BJcr8Q7HT%2Bx%2BJp/lDRQUf2TFCflBEGS11iN98Wp1QwnenIdUFaHyuC5sQ17HhQ9VxRDyC5qxfknBjZbcXTAWSCOF8VyqhWFlaTu5THqPOr4OR/m7ohZ4QuD4Xuuve%2BmB9hToL6dqrSQN0QK9WF/s6pg50C86sJ/gCWNuvzxeskgyMPy8164GOqcBbpEiNF8LNJ1L45e%2BfqIvkMwCAX9Vi9hN2QJQNg9oF88T5IkS01QQz5bVpI2FUq8%2BgNlVITmeSF%2B6iGy7C8cwkz%2BiKwFJ4tHcP45z05/QDdDgAThcvJE5tDxm8IqfzsvIrVhAT82ns1ZEC3Pzyd0fz6aFmNcgamDCkiLHkQtq8wYXGea1xBKPL9B6nlijhe7dI1G/y1pcXJTfpuBo%2B9TyMKrBCiIWe0I=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240221T124346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW52NAHPPMD/20240221/us-west-2/s3/aws4_request&X-Amz-Signature=2771f0e15082a92ae3429ca5541a9391e3c5dd7dde8fe1f1ab24925f30847a87",
-            "url": ""
+            "imageSrc": "https://img.hotimg.com/Screenshot-2024-01-14-195145.png",
+            "url": "https://ibegin.tcs.com/iBegin/"
         },
         {
             "id": "2",
             "title": "Specialty Patient Portal",
             "description": "Web Development",
-            "imageSrc": "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/8b6643a7c15c3a05be69223e15ef36c0?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFwaCXVzLXdlc3QtMiJHMEUCIQCht723AyvR9f1uklwgmSEeFBEjeGuZ9naSsUVDfY48UgIgCpJ8YTasYwrxREivUWsJ9Hd39uQcfGYh6ThcA5UmH70qzQQIRRAAGgw3Mzk5MzkxNzM4MTkiDPkXb3gEVi9L2YeUniqqBBp37WkDKlM6tOkZZ4417kpme25x8ib6qQ2oraDlXSWtSMG5SFKiB0/AV2AdYHNHWXfkTg0xPAffjBSWUQblfleXd/pE7NeHSVpKM70jpuA523AguMY7aW8Zs%2BpdoScM/VFxCrTDSuu11lXLe0mpT0UbEBZCpk6iYh/R1edk7uSSD1EYU9TAwj4iOsYQ65GzwtEreCtVGxw%2B8vZhEX4RBgFoJ4/Ytoardz1cGweLIwFbpgUzLZJlt14gdb1Q7yCdxYs6xOENRh17PdYbdCShQGxEfaKQ9sqqHQbCSUI6JLOEdKCJ4y%2B/A8CvXeFSgdf1Ki/L3vJveT8vY341NhI0q2%2Bvscz%2B8qEh0iyj5iDUDZhZapKZIu7bJzrQE3URR2Kv7pxBti9cKtLw%2BmRzQtiGm6/C5dUIewZBCOzph4wnifqLKeUY4wKeNgAFdz9p48U3ijwLQGpQX6f%2BtrKM3CUObw5eA/08vOydxx/vZt2%2BZpXNW4dzWKR8Np6aMdfLW78rqIRPSt/1KwiyMVySP6F2V7c9RdrU4Wmo9N%2B20EdvYHV8sn/ryonBnDoNI6V96JiEbNsejrT4YYClSolCB%2BS0ctCAkzx2QFjyX8qKSKtU3jTgA1gJbI97XZX4sVKuFM7PF460jZtMKEx%2BFlZxGlZo21oH7tTwsQupBrO5HVa6P9uS8wy6qbO0Mu7d9fxBghJb5UCVWDm1ilDuSqc4fWbvATkA5cSxF2Q5mP9QMOfN164GOqcBafEXSEvM7qKTzcYJc7%2BmHPskDld4E8ZN9R6YaQdpluv7h/VxaWlj3NGcANAXc6Dw%2Bo6wWw8f9eXS%2BniWKBErEaVjbLL%2BRXuDviyg56ogRBrWm2ga8oXFdx2c/I4fUeWdT7TYtHPN4DFjvovji13CVf2C80ey/0N%2B9C8vAi/l0G6fjdKRM3ZgELAoT4wP7LHqHNauUvve/lva466yC2424TkrlagSNHE=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240221T124055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5YZ4WFHWS/20240221/us-west-2/s3/aws4_request&X-Amz-Signature=b348943fc79a5cfcc186ef5f897e09b6a6971311ff0c43d5700675e91729ee62",
-            "url": ""
+            "imageSrc": "https://img.hotimg.com/Screenshot-2024-01-14-194148.png",
+            "url": "https://specialty.optumrx.com/"
         }
     ],
     "services": [
         {
             "id": "1",
             "title": "Website Development",
-            "description": "We help with the creation and development of online for your product and services."
+            "description": "We help with the creation and development of website for your product and services."
         },
         {
             "id": "4",
