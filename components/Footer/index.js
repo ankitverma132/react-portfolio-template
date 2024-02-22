@@ -10,10 +10,10 @@ const Footer = ({}) => {
         <div>
           <h1 className="text-2xl text-bold">Contact.</h1>
           <div className="mt-10">
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
+            <h1 className="text-3xl tablet:text-4xl laptop:text-4xl laptopl:text-4xl text-bold">
               LET&apos;S WORK
             </h1>
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
+            <h1 className="text-3xl tablet:text-4xl laptop:text-4xl laptopl:text-4xl text-bold">
               TOGETHER
             </h1>
             <Button type="primary">Call me at +91 8960758532 for work</Button>

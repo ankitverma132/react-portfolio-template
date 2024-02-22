@@ -11,8 +11,8 @@
     "socials": [
         {
             "id": "1",
-            "title": "Github",
-            "link": "https://github.com/ankitverma132"
+            "title": "Facebook",
+            "link": "https://www.facebook.com/ghantaASA/about_contact_and_basic_info/?id=100063636284406&open_field=website&sk=about_contact_and_basic_info"
         },
         {
             "id": "2",
@@ -56,9 +56,18 @@
             "id": "4",
             "title": "Digital Marketing",
             "description": "We do all type of performance marketing like ads on facebook, Search Engine Optimization etc. "
+        },{
+            "id": "2",
+            "title": "SEO",
+            "description": "Unlock your website’s true potential with our SEO strategies that bring more traffic, leads, and revenue."
+        },
+        {
+            "id": "3",
+            "title": "Logo Designing",
+            "description": "LOGO Symbolizes your Business or Organization. A Logo is the UNIQUE Visual Identity of your Brand. A good LOGO is a part of Brand Design and plays an important role in its development."
         }
     ],
-    "aboutpara": "A user-friendly website makes the business more trustworthy and credible. We create website about your business that give viewers a detailed understanding of your products or services, contact information, and other vital details. We also create, run, and analyze paid online advertising on facebook.",
+    "aboutpara": "In today’s digital age, your business needs to stand out from the crowd to succeed. Digital marketing helps you to reach a larger audience and connect with potential customers, ultimately driving sales and increasing revenue. Don’t get left behind – let us help you elevate your online presence and dominate your industry with our digital marketing strategies.",
     "resume": {
         "tagline": "👋  I'm a software engineer.",
         "description": "Full-Stack Engineer with a passion for Software, Databases, and Scalable distributed Systems. Over the 5+ years, I have developed or contributed to nearly 8+ projects in a variety of Work like Developing from Scratch, breaking from Monolith to Micro-Services and other technical works. I have worked with Clients in various domains like Healthcare, Telecommunication, Recruitment Sector and have worked for Companies such as Optum, Amdocs and TCS.",
